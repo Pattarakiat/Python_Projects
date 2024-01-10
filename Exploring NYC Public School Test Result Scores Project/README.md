@@ -3,13 +3,13 @@ This project is one of the project assestment from Datacamp([Data science with P
 
 
 # About Dataset
-- school_name: The list of high schools within the state of New York City
-- borough: The town or district is in New York City
-- building_code: One of the NYC code that set minimum requirements for how to construce the building
-- average_math: The average math score of each schools
-- average_reading: The average reading score of each schools
-- average_writing: The average writing score of each schools
-- percent_tested The percentage of student who participated the SATS
+- **school_name**: The list of high schools within the state of New York City
+- **borough**: The town or district is in New York City
+- **building_code**: One of the NYC code that set minimum requirements for how to construce the building
+- **average_math**: The average math score of each schools
+- **average_reading**: The average reading score of each schools
+- **average_writing**: The average writing score of each schools
+- **percent_tested** The percentage of student who participated the SATS
 
 
 
